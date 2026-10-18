@@ -1,7 +1,8 @@
 # AI Architecture Portfolio
 
-A working portfolio for documenting an AI system architecture, the assumptions
-behind it, and the decisions made along the way.
+This repository is a course portfolio for the AI Architecture course led by
+Eng. Sameh Amin in the MLOps MENA Community. It documents an AI system
+architecture, the assumptions behind it, and the decisions made along the way.
 
 ## Repository Layout
 
